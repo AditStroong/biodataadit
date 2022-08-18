@@ -5,3 +5,8 @@ Jenis Kelamin:Laki Laki
 Tempat & Tanggal Lahir:Bandung,18 agustus 2004
 Hobi:Main game, Membaca
 Cita cita:pengusaha,pelukis
+riwayat pendidikan:
+Tk Kamelia
+SDN Tanjung Bandung
+SMPN 33 Bandung
+Smk Prakarya Internasional
